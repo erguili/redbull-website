@@ -1,0 +1,24 @@
+[
+    {
+    "id": 1,
+    "fname": "Max",
+    "lname": "Verstappen",
+    "team": "Drivers",
+    "position": "1st driver",
+    "specialties": "Driver insight, analytical, clear communicator",
+    "picture": "https://cdn-5.motorsport.com/images/mgl/0rG4r9d2/s800/max-verstappen-red-bull-racing-1.jpg",
+    "email": "M_Verstappen@formulaone.com",
+    "password": "F12345"
+    },
+    {    
+    "id": 2,    
+    "fname": "Klaas",    
+    "lname": "Vaak",    
+    "team": "Slaapcoach",    
+    "position": "Medewerker",    
+    "specialties": "Slapen is belangrijk",    
+    "picture": "./assets/DriverMV2.png",
+    "email": "K_Vaak@formulaone.com",
+    "password": "F12345"
+    }
+]
